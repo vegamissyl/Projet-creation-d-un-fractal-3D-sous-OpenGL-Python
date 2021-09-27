@@ -14,7 +14,7 @@ choisir 1 pour le projet cpu, puis choisir n le nombre d'iterations
 OU
 choisir 2 pour le projet gpu
 
-Parametres changeables pour gpu_proj (dans le fonction draw de la class colorShader): 
+Parametres changeables pour gpu_proj (dans la fonction draw de la class colorShader): 
 
 - SCALE
 - C_X
